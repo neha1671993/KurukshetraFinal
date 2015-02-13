@@ -64,6 +64,10 @@ public class MainActivity extends Activity {
 						switch(ch)
 						{
 						//Create different cases for numbers in the grid
+						case 3:
+							Intent in=new Intent(getApplicationContext(), hotels.MainActivity.class);
+							startActivity(in);
+							break;
 						case 8:
 							Intent i=new Intent(android.content.Intent.ACTION_SEND);
 							i.setType("text/plain");

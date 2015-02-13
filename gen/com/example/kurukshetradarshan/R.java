@@ -31,25 +31,36 @@ public final class R {
         public static final int hotel=0x7f020007;
         public static final int hotels=0x7f020008;
         public static final int ic_launcher=0x7f020009;
-        public static final int mela=0x7f02000a;
-        public static final int natak=0x7f02000b;
-        public static final int personal=0x7f02000c;
-        public static final int picnic_spot=0x7f02000d;
-        public static final int rating=0x7f02000e;
-        public static final int refer=0x7f02000f;
-        public static final int routes=0x7f020010;
-        public static final int share=0x7f020011;
-        public static final int taxi=0x7f020012;
+        public static final int jyotisarfront=0x7f02000a;
+        public static final int mela=0x7f02000b;
+        public static final int natak=0x7f02000c;
+        public static final int neelkanthi1=0x7f02000d;
+        public static final int notavailable=0x7f02000e;
+        public static final int parakit=0x7f02000f;
+        public static final int personal=0x7f020010;
+        public static final int picnic_spot=0x7f020011;
+        public static final int rating=0x7f020012;
+        public static final int refer=0x7f020013;
+        public static final int routes=0x7f020014;
+        public static final int saffron=0x7f020015;
+        public static final int share=0x7f020016;
+        public static final int silversand=0x7f020017;
+        public static final int taxi=0x7f020018;
     }
     public static final class id {
-        public static final int action_settings=0x7f080003;
+        public static final int action_settings=0x7f080006;
         public static final int gridView1=0x7f080000;
-        public static final int item_image=0x7f080001;
-        public static final int item_text=0x7f080002;
+        public static final int img=0x7f080002;
+        public static final int item_image=0x7f080004;
+        public static final int item_text=0x7f080005;
+        public static final int list=0x7f080001;
+        public static final int txt=0x7f080003;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int row_grid=0x7f030001;
+        public static final int hotel=0x7f030001;
+        public static final int list_single=0x7f030002;
+        public static final int row_grid=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f070000;
